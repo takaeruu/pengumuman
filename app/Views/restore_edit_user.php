@@ -3,7 +3,7 @@
         <div class="col-12 col-md-10">
             <div class="card">
                 <div class="card-header">
-                    <h4 class="card-title" style="text-transform: uppercase; font-size: 30px;">RECYCLE BIN USER</h4>
+                    <h4 class="card-title" style="text-transform: uppercase; font-size: 30px;">RESTORE EDIT USER</h4>
                 </div>
 
                 <!-- Content area -->
